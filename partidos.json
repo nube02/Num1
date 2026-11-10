@@ -2,39 +2,15 @@
   "matches": [
     {
       "index": 0,
-      "home": "AMOR",
+      "home": "Barcelona",
       "homeInitials": "BAR",
-      "status": "VIVO",
-      "date": "10 NOV",
-      "away": "AMOR",
+      "status": "EN VIVO",
+      "date": "HOY",
+      "away": "Real Madrid",
       "awayInitials": "RMA",
-      "homeColor": "#FA2900",
-      "awayColor": "#2455A0",
-      "url": "https://ewvz.fubo18.com/winsports2/mono.m3u8?token=cdbc8bbbf84cd4b062212b6a6102785b7c2808e3-6d-1794350662-1794332662"
-    },
-    {
-      "index": 1,
-      "home": "LOVE",
-      "homeInitials": "BUR",
-      "status": "VIVO",
-      "date": "10 NOV",
-      "away": "LOVE",
-      "awayInitials": "BAY",
-      "homeColor": "#FA2900",
-      "awayColor": "#D52B35",
-      "url": "https://ewvz.fubo18.com/winsports2/mono.m3u8?token=cdbc8bbbf84cd4b062212b6a6102785b7c2808e3-6d-1794350662-1794332662"
-    },
-    {
-      "index": 2,
-      "home": "GUSTAR",
-      "homeInitials": "LEI",
-      "status": "VIVO",
-      "date": "10 NOV",
-      "away": "GUSTAR",
-      "awayInitials": "ARS",
-      "homeColor": "#2455A0",
-      "awayColor": "#D52B35",
-      "url": "https://ewvz.fubo18.com/winsports2/mono.m3u8?token=cdbc8bbbf84cd4b062212b6a6102785b7c2808e3-6d-1794350662-1794332662"
+      "homeColor": "#0000FF",
+      "awayColor": "#FF0000",
+      "url": "PEGA_AQUI_LA_URL_COMPLETA"
     }
   ]
 }
