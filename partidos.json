@@ -2,11 +2,11 @@
   "matches": [
     {
       "index": 0,
-      "home": "pera",
+      "home": "perro",
       "homeInitials": "BAR",
       "status": "EN VIVO",
       "date": "HOY",
-      "away": "manzana",
+      "away": "perro",
       "awayInitials": "RMA",
       "homeColor": "#0000FF",
       "awayColor": "#FF0000",
