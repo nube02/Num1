@@ -1,0 +1,28 @@
+{
+  "matches": [
+    {
+      "index": 0,
+      "home": "Barcelona",
+      "homeInitials": "BAR",
+      "status": "VIVO",
+      "date": "10 NOV",
+      "away": "Manchester City",
+      "awayInitials": "MC",
+      "homeColor": "#FA2900",
+      "awayColor": "#2455A0",
+      "url": "https://TU-URL-AUTORIZADA.m3u8"
+    },
+    {
+      "index": 1,
+      "home": "Burnley",
+      "homeInitials": "BUR",
+      "status": "VIVO",
+      "date": "10 NOV",
+      "away": "Bayern",
+      "awayInitials": "BAY",
+      "homeColor": "#FA2900",
+      "awayColor": "#D52B35",
+      "url": "https://TU-SEGUNDA-URL-AUTORIZADA.m3u8"
+    }
+  ]
+}
