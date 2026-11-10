@@ -2,27 +2,29 @@
   "matches": [
     {
       "index": 0,
-      "home": "Barcelona",
+      "home": "MADRID",
       "homeInitials": "BAR",
       "status": "VIVO",
       "date": "10 NOV",
-      "away": "Manchester City",
+      "away": "City",
       "awayInitials": "MC",
       "homeColor": "#FA2900",
       "awayColor": "#2455A0",
-      "url": "https://TU-URL-AUTORIZADA.m3u8"
+      "url": "https://10.ftlly.com/espnpremium/mono.m3u8?token=cb68d2bba48853781c27c0b797803ff9a03138eb-2f-1794349377-1794331377
+"
     },
     {
       "index": 1,
-      "home": "Burnley",
+      "home": "REAL",
       "homeInitials": "BUR",
       "status": "VIVO",
       "date": "10 NOV",
-      "away": "Bayern",
+      "away": "REAL",
       "awayInitials": "BAY",
       "homeColor": "#FA2900",
       "awayColor": "#D52B35",
-      "url": "https://TU-SEGUNDA-URL-AUTORIZADA.m3u8"
+      "url": "https://https://10.ftlly.com/espnpremium/mono.m3u8?token=cb68d2bba48853781c27c0b797803ff9a03138eb-2f-1794349377-1794331377
+"
     }
   ]
 }
