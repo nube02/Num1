@@ -23,6 +23,30 @@
       "homeColor": "#00AAFF",
       "awayColor": "#CC0000",
       "url": "https://99.envivosenhd.beer/mlaliga/mono.m3u8?token=137b52e26e49ce4d7eb3be832700bfd52e59ee1a-57-1794353551-1794335551"
+    },
+    {
+      "index": 2,
+      "home": "Arsenal",
+      "homeInitials": "ARS",
+      "status": "EN VIVO",
+      "date": "HOY",
+      "away": "Chelsea",
+      "awayInitials": "CHE",
+      "homeColor": "#FF0000",
+      "awayColor": "#0000FF",
+      "url": "https://99.envivosenhd.beer/mlaliga/mono.m3u8?token=137b52e26e49ce4d7eb3be832700bfd52e59ee1a-57-1794353551-1794335551"
+    },
+    {
+      "index": 3,
+      "home": "Bayern Munich",
+      "homeInitials": "BAY",
+      "status": "EN VIVO",
+      "date": "HOY",
+      "away": "PSG",
+      "awayInitials": "PSG",
+      "homeColor": "#CC0000",
+      "awayColor": "#000066",
+      "url": "https://99.envivosenhd.beer/mlaliga/mono.m3u8?token=137b52e26e49ce4d7eb3be832700bfd52e59ee1a-57-1794353551-1794335551"
     }
   ]
 }
