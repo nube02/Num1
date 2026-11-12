@@ -2,15 +2,15 @@
   "matches": [
     {
       "index": 0,
-      "home": "Glendy",
+      "home": "",
       "homeInitials": "BAR",
       "status": "VIVO",
       "date": "HOY",
-      "away": "cristy",
+      "away": "",
       "awayInitials": "RMA",
-      "homeColor": "#000000",
-      "awayColor": "#000000",
-      "url": "https://99.envivosenhd.beer/espndeportes/mono.m3u8?token=6162352e42e327d9948fc9fd3030ba1fbfb428da-55-1794428348-1794410348"
+      "homeColor": "#FFFFFF",
+      "awayColor": "#FFFFFF",
+      "url": ""
     },
     {
       "index": 1,
@@ -71,54 +71,7 @@
       "homeColor": "#000000",
       "awayColor": "#000000",
       "url": "https://c2f2zq.fubo18.com/tntsports/mono.m3u8?token=76b4e6d80ad74af1df71dd84d90e11b7a44c6702-31-1794364594-1794346594"
-    },
-    {
-      "index": 6,
-      "home": "perro",
-      "homeInitials": "BAY",
-      "status": "EN VIVO",
-      "date": "HOY",
-      "away": "perro",
-      "awayInitials": "PSG",
-      "homeColor": "#000000",
-      "awayColor": "#000000",
-      "url": "https://c2f2zq.fubo18.com/tntsports/mono.m3u8?token=76b4e6d80ad74af1df71dd84d90e11b7a44c6702-31-1794364594-1794346594"
-    },
-    {
-      "index": 7,
-      "home": "perro",
-      "homeInitials": "BAY",
-      "status": "EN VIVO",
-      "date": "HOY",
-      "away": "perro",
-      "awayInitials": "PSG",
-      "homeColor": "#000000",
-      "awayColor": "#000000",
-      "url": "https://c2f2zq.fubo18.com/tntsports/mono.m3u8?token=76b4e6d80ad74af1df71dd84d90e11b7a44c6702-31-1794364594-1794346594"
-    },
-    {
-      "index": 8,
-      "home": "perro",
-      "homeInitials": "BAY",
-      "status": "EN VIVO",
-      "date": "HOY",
-      "away": "perro",
-      "awayInitials": "PSG",
-      "homeColor": "#000000",
-      "awayColor": "#000000",
-      "url": "https://c2f2zq.fubo18.com/tntsports/mono.m3u8?token=76b4e6d80ad74af1df71dd84d90e11b7a44c6702-31-1794364594-1794346594"
-    },
-    {
-      "index": 9,
-      "home": "perro",
-      "homeInitials": "BAY",
-      "status": "EN VIVO",
-      "date": "HOY",
-      "away": "perro",
-      "awayInitials": "PSG",
-      "homeColor": "#000000",
-      "awayColor": "#000000",
-      "url": ""
-    },
+    },
+    
   ]
 }
