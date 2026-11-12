@@ -11,31 +11,6 @@
       "homeColor": "#FFFFFF",
       "awayColor": "#FFFFFF",
       "url": ""
-    },
-    {
-      "index": 1,
-      "home": "estrellas",
-      "homeInitials": "MCI",
-      "status": "VIVO",
-      "date": "🔒",
-      "away": "luna",
-      "awayInitials": "LIV",
-      "homeColor": "#FFFFFF",
-      "awayColor": "#FFFFFF",
-      "url": ""
-    },
-    {
-      "index": 2,
-      "home": "perro",
-      "homeInitials": "ARS",
-      "status": "VIVO",
-      "date": "🔒",
-      "away": "Che",
-      "awayInitials": "perro",
-      "homeColor": "#FFFFFF",
-      "awayColor": "#FFFFFF",
-      "url": ""
-    }, 
-    
+    },
   ]
 }
