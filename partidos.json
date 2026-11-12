@@ -59,19 +59,7 @@
       "homeColor": "#FFFFFF",
       "awayColor": "#FFFFFF",
       "url": ""
-    },
-    {
-      "index": 5,
-      "home": "perro",
-      "homeInitials": "BAY",
-      "status": "VIVO",
-      "date": "🔒",
-      "away": "perro",
-      "awayInitials": "PSG",
-      "homeColor": "#FFFFFF",
-      "awayColor": "#FFFFFF",
-      "url": ""
-    },
+    }, 
     
   ]
 }
