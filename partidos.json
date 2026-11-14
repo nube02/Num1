@@ -11,45 +11,21 @@
       "homeColor": "#FFFFFF",
       "awayColor": "#FFFFFF",
       "url": ""
-    },
-{
-      "index": 1,
-      "home": "Colombia",
-      "homeInitials": "",
-      "status": "VIVO",
-      "date": "🔓",
-      "away": "Chile",
-      "awayInitials": "",
-      "homeColor": "#FF2400",
-      "awayColor": "#FF2400",
-      "url": "https://dw5pdgvk.fubo18.com/caracol/mono.m3u8?token=c2fd554e6463fc0519f27c2c2224d6f98a9d1694-4f-1794632294-1794614294"
-    },
+    },    
 {
       "index": 2,
-      "home": "Ecuador",
+      "home": "Guatemala",
       "homeInitials": "",
       "status": "VIVO",
       "date": "🔓",
-      "away": "Costa Rica",
+      "away": "Canadá",
       "awayInitials": "",
       "homeColor": "#FF2400",
       "awayColor": "#FF2400",
-      "url": "https://99.envivosenhd.beer/eventos2/mono.m3u8?token=86954ae2453c31409201b336847f532c793f69eb-74-1794632473-1794614473"
+      "url": "https://99.envivosenhd.beer/tudnus/mono.m3u8?token=9e04840ff7dc699dbd11f421b0245050ece8a7d3-77-1794640780-1794622780"
     },
 {
       "index": 3,
-      "home": "Perú",
-      "homeInitials": "",
-      "status": "VIVO",
-      "date": "🔓",
-      "away": "Bolivia",
-      "awayInitials": "",
-      "homeColor": "#FF2400",
-      "awayColor": "#FF2400",
-      "url": "https://dw5pdgvk.fubo18.com/americatv/mono.m3u8?token=fda55558f7ab8e95f85099b99ec11bc627ae0784-9c-1794634689-1794616689"
-    },
-{
-      "index": 4,
       "home": "Guatemala",
       "homeInitials": "",
       "status": "VIVO",
