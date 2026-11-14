@@ -12,5 +12,17 @@
       "awayColor": "#FFFFFF",
       "url": ""
     },
+{
+      "index": 1,
+      "home": "Kosovo",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Israel",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/espn1cl/mono.m3u8?token=0b8f19d588316f585b2edac6f2f9c5bed034974b-7c-1794680986-1794662986"
+    },
   ]
 }
