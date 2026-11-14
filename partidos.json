@@ -48,5 +48,17 @@
       "awayColor": "#FF2400",
       "url": "https://99.envivosenhd.beer/eventos2/mono.m3u8?token=86954ae2453c31409201b336847f532c793f69eb-74-1794632473-1794614473"
     },
+{
+      "index": 4,
+      "home": "Perú",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Bolivia",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://dw5pdgvk.fubo18.com/americatv/mono.m3u8?token=fda55558f7ab8e95f85099b99ec11bc627ae0784-9c-1794634689-1794616689"
+    },   
   ]
 }
