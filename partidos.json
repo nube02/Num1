@@ -48,5 +48,17 @@
       "awayColor": "#FF2400",
       "url": "https://99.envivosenhd.beer/global/sportv1/mono.m3u8?token=3fc0befe85751b57ffac15ec52f1b34552681514-28-1794681527-1794663527"
     },
+{
+      "index": 4,
+      "home": "Central Español",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Boston River",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://ym9yzq.fubo18.com/disney2/mono.m3u8?token=3280d8835433d8cfb817b0bfe29976dca14304ce-84-1794682567-1794664567"
+    },
   ]
 }
