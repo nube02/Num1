@@ -72,5 +72,41 @@
       "awayColor": "#FF2400",
       "url": "https://b2zmawnpyww.fubo18.com/tycsports/mono.m3u8?token=14d435abddf634a737d25f079ca24b7ed05c2d7b-57-1794691920-1794673920"
     },
+{
+      "index": 6,
+      "home": "Millonario",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Alianzas",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/winplus/mono.m3u8?token=3975fdeb1f0649eb186bef625e47c9a754adfa79-6f-1794708257-1794690257"
+    },
+{
+      "index": 7,
+      "home": "Rionegros Aguilas",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Medellín",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/global/win1/mono.m3u8?token=d8aaa144ec01be600c9053c75239931d7c429a4e-4b-1794708463-1794690463"
+    },
+{
+      "index": 8,
+      "home": "Atlético Nacional",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Once Caldas",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/global/win2/mono.m3u8?token=23c9f4ea8d7a3c9b967a5c3569873d52c68d0188-25-1794708591-1794690591"
+    },
   ]
 }
