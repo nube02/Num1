@@ -11,30 +11,6 @@
       "homeColor": "#FFFFFF",
       "awayColor": "#FFFFFF",
       "url": ""
-    },    
-{
-      "index": 1,
-      "home": "Guatemala",
-      "homeInitials": "",
-      "status": "VIVO",
-      "date": "🔓",
-      "away": "Canadá",
-      "awayInitials": "",
-      "homeColor": "#FF2400",
-      "awayColor": "#FF2400",
-      "url": "https://99.envivosenhd.beer/tudnus/mono.m3u8?token=9e04840ff7dc699dbd11f421b0245050ece8a7d3-77-1794640780-1794622780"
     },
-{
-      "index": 2,
-      "home": "Guatemala",
-      "homeInitials": "",
-      "status": "VIVO",
-      "date": "🔓",
-      "away": "Canadá",
-      "awayInitials": "",
-      "homeColor": "#FF2400",
-      "awayColor": "#FF2400",
-      "url": "https://99.envivosenhd.beer/global/fox2usa/mono.m3u8?token=959497fac174630c2d4407de7b1e3b613fd21e3d-7a-1794637860-1794619860"
-    },  
   ]
 }
