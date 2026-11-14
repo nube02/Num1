@@ -108,5 +108,53 @@
       "awayColor": "#FF2400",
       "url": "https://99.envivosenhd.beer/global/win2/mono.m3u8?token=23c9f4ea8d7a3c9b967a5c3569873d52c68d0188-25-1794708591-1794690591"
     },
+{
+      "index": 9,
+      "home": "Atlético Bucaramanga",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Fortaleza CEIF",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/global/win4/mono.m3u8?token=a8bd25d911f06ef5e62f3e6fb72dfc52903b3ce3-28-1794708913-1794690913"
+    },
+{
+      "index": 10,
+      "home": "Cúcuta Deportivo",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Jaguares de Córdoba",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/global/win4/mono.m3u8?token=a8bd25d911f06ef5e62f3e6fb72dfc52903b3ce3-28-1794708913-1794690913"
+    },
+{
+      "index": 11,
+      "home": "Deportivo Cali",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Deportes Tolima",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/win5/mono.m3u8?token=c556ea45edefabf7fe71ab59ec5313cc73be75fb-cb-1794709025-1794691025"
+    },
+{
+      "index": 12,
+      "home": "Deposito Pereira",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "América de Cali",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/win6/mono.m3u8?token=aed9e6a04b08150e3d8f35be3133feb08e991ff5-9e-1794709124-1794691124"
+    },
   ]
 }
