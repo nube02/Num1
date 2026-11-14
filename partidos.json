@@ -14,15 +14,39 @@
     },
 {
       "index": 1,
-      "home": "Argentina",
+      "home": "Colombia",
       "homeInitials": "",
       "status": "VIVO",
       "date": "🔒",
-      "away": "Uruguay",
+      "away": "Chile",
       "awayInitials": "",
       "homeColor": "#FF2400",
       "awayColor": "#FF2400",
       "url": "https://ym9yzq.fubo18.com/tycsports/mono.m3u8?token=75d97d83835b7032774fdb2928652e9e86e01eec-cf-1794631616-1794613616"
+    },
+{
+      "index": 2,
+      "home": "Ecuador",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Costa Rica",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://dw5pdgvk.fubo18.com/caracol/mono.m3u8?token=c2fd554e6463fc0519f27c2c2224d6f98a9d1694-4f-1794632294-1794614294"
+    },
+{
+      "index": 3,
+      "home": "Nom",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Nom",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/eventos2/mono.m3u8?token=86954ae2453c31409201b336847f532c793f69eb-74-1794632473-1794614473"
     },
   ]
 }
