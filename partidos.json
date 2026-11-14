@@ -24,5 +24,29 @@
       "awayColor": "#FF2400",
       "url": "https://99.envivosenhd.beer/espn1cl/mono.m3u8?token=0b8f19d588316f585b2edac6f2f9c5bed034974b-7c-1794680986-1794662986"
     },
+{
+      "index": 2,
+      "home": "Noruega",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Gales",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/espn1cl/mono.m3u8?token=f299104201e282c3302c5fba97787ee38c2204ba-82-1794681349-1794663349"
+    },
+{
+      "index": 3,
+      "home": "Georgina",
+      "homeInitials": "",
+      "status": "VIVO",
+      "date": "🔓",
+      "away": "Hungria",
+      "awayInitials": "",
+      "homeColor": "#FF2400",
+      "awayColor": "#FF2400",
+      "url": "https://99.envivosenhd.beer/global/sportv1/mono.m3u8?token=3fc0befe85751b57ffac15ec52f1b34552681514-28-1794681527-1794663527"
+    },
   ]
 }
